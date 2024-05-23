@@ -1,0 +1,9 @@
+Package: hello
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: bash
+Maintainer: Shaul Fridman <shaulf@nvidia.com>
+Description: A simple hello world script
+ This is a longer description of the hello world script.
